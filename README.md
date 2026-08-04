@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryan-pandey00/DSA/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aryan-pandey00/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3903-smallest-stable-index-i](https://github.com/aryan-pandey00/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -20,9 +21,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aryan-pandey00/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/aryan-pandey00/DSA/tree/master/3903-smallest-stable-index-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
