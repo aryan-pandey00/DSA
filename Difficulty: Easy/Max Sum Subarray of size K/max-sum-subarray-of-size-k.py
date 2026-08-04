@@ -16,7 +16,7 @@ class Solution:
         while (high<len(arr)):
             max_sum = max(max_sum,sum)
             
-            if high == len(arr) - 1:
+            if high == len(arr) - 1:# this is checking does the next window exist or not
                 break
             
             sum = sum - arr[low] + arr[high+1] # high + 1 because high is not updated yet
