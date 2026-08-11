@@ -4,11 +4,11 @@ class Solution:
         min_price = float('inf')
 
         for i in prices:
-            # Find the lowest buying price
+            # lowest buying price
             if i < min_price:
                 min_price = i
 
-            # Calculate profit if sold today
+            # Calculate profit
             profit = i - min_price
 
             # Update maximum profit
