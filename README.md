@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan-pandey00/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aryan-pandey00/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryan-pandey00/DSA/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/aryan-pandey00/DSA/tree/master/0904-fruit-into-baskets) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
