@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryan-pandey00/DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-pandey00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aryan-pandey00/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aryan-pandey00/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aryan-pandey00/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aryan-pandey00/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
