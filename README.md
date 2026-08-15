@@ -89,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aryan-pandey00/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryan-pandey00/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryan-pandey00/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
