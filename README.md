@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryan-pandey00/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aryan-pandey00/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aryan-pandey00/DSA/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aryan-pandey00/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aryan-pandey00/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
