@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/aryan-pandey00/DSA/tree/master/0190-reverse-bits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aryan-pandey00/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/aryan-pandey00/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
