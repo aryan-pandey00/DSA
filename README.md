@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aryan-pandey00/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aryan-pandey00/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aryan-pandey00/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryan-pandey00/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryan-pandey00/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
