@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/aryan-pandey00/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryan-pandey00/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/aryan-pandey00/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryan-pandey00/DSA/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/aryan-pandey00/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryan-pandey00/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryan-pandey00/DSA/tree/master/0326-power-of-three) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
