@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aryan-pandey00/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aryan-pandey00/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/aryan-pandey00/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryan-pandey00/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aryan-pandey00/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-pandey00/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
 | [3905-multi-source-flood-fill](https://github.com/aryan-pandey00/DSA/tree/master/3905-multi-source-flood-fill) |
 ## Hash Table
 |  |
@@ -151,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
