@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-pandey00/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aryan-pandey00/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-pandey00/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aryan-pandey00/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aryan-pandey00/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3905-multi-source-flood-fill](https://github.com/aryan-pandey00/DSA/tree/master/3905-multi-source-flood-fill) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/aryan-pandey00/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryan-pandey00/DSA/tree/master/0326-power-of-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-pandey00/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aryan-pandey00/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
