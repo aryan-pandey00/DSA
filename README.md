@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/aryan-pandey00/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/aryan-pandey00/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/aryan-pandey00/DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-pandey00/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/aryan-pandey00/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/aryan-pandey00/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
