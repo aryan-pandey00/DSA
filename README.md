@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aryan-pandey00/DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-pandey00/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/aryan-pandey00/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/aryan-pandey00/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/aryan-pandey00/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
