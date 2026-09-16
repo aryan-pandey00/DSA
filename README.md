@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/aryan-pandey00/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/aryan-pandey00/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryan-pandey00/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/aryan-pandey00/DSA/tree/master/0283-move-zeroes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/aryan-pandey00/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-pandey00/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/aryan-pandey00/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Divide and Conquer
 |  |
