@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/aryan-pandey00/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/aryan-pandey00/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-pandey00/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aryan-pandey00/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aryan-pandey00/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-pandey00/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryan-pandey00/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryan-pandey00/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/aryan-pandey00/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aryan-pandey00/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
