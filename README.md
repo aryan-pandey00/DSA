@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/aryan-pandey00/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aryan-pandey00/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aryan-pandey00/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/aryan-pandey00/DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/aryan-pandey00/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aryan-pandey00/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/aryan-pandey00/DSA/tree/master/0079-word-search) |
